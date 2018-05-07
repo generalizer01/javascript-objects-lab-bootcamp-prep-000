@@ -1,6 +1,6 @@
 var recipies = {}
 
-function updateObjectWithKeyAndValue(object,key) {
+function updateObjectWithKeyAndValue(object,key,value) {
   
   return nobject
 }
