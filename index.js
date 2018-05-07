@@ -1,6 +1,6 @@
 var recipies = {}
 
 function updateObjectWithKeyAndValue(object,key,value) {
-  nobject = {
+  nobject = Object.assign
   return nobject
 }
